@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mouth4HomeWork1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="this_is_second_fragment">This is next fragment</string>
+    <string name="this_is_first_fragment">This is Home </string>
+    <string name="please_type_the_text">Please, Type the Text</string>
+    <string name="text_from_other_fragment">Text from Other Fragment</string>
+    <string name="save">Save</string>
+    <string name="button">Button</string>
+
+</resources>
